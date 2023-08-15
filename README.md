@@ -4,7 +4,7 @@
    
 # Hosted URL :- 
  
-   https://issue-tracker-cl1s.onrender.com
+  
    
 # Screenshorts
 
